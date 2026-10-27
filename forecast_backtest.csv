@@ -1,0 +1,5 @@
+,WAPE %,bias %
+naive,10.5,0.5
+seasonal_naive,12.9,-4.5
+gradient_boosting,9.7,-4.2
+regression,5.4,-1.4

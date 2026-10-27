@@ -1,0 +1,8 @@
+model,elasticity,se,competitor price,promo,industrial index,R2
+"pooled, no controls",-3.045,0.693,,,,0.533
+region FE,-1.996,0.17,0.46,0.088,1.656,0.936
+region + month FE (main),-2.062,0.052,0.484,0.079,1.508,0.982
+region + year-month FE,-2.019,0.056,0.491,0.077,0.762,0.985
+main + region trends,-2.059,0.065,0.472,0.078,0.905,0.983
+"main, 2021-22 only",-2.051,0.097,0.563,0.073,1.568,0.985
+"main, 2023-24 only",-2.042,0.122,0.459,0.077,1.214,0.979

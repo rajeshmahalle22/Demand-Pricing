@@ -1,0 +1,7 @@
+change,rows
+Region labels standardised,8 labels -> 6
+Exact duplicates removed,3
+Rows moved to correct region (by capacity),5
+Demand values corrected (decimal shift),2
+Competitor prices interpolated,6
+Promo flags set to 0,6
